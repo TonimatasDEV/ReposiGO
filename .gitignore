@@ -1,5 +1,11 @@
-repositories/
+# Program
+storage/
 config.json
 sessions.json
+
+# Output
 ReposiGO.exe
+ReposiGO
+
+# IntelliJ
 .idea/
